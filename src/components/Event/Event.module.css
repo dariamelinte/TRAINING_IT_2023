@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    border-radius: 20px;
+    background-color: #dedede; 
+    flex-direction: column;
+    padding: 25px;
+    width: 60vw;
+    margin-bottom: 10px;
+}
+
+.eventHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+    font-weight: 600;
+}
+
+.eventDesc {
+    padding-top: 10px;
+    padding-left: 10px;
+    color: #666;
+}

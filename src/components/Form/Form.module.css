@@ -1,0 +1,27 @@
+.form{
+    display: flex;
+    border-radius: 20px;
+    background-color: #dedede; 
+    flex-direction: column;
+    padding: 25px;
+    width: 60vw;
+    margin-bottom: 2rem;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.button{ 
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cancel{
+    margin-right: 30px;
+}
